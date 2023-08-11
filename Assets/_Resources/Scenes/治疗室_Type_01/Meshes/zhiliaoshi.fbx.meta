@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: 4083b45ab617b1d41a851d9b00549409
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ChuZi1
+    100002: Deng01
+    100004: Deng02
+    100006: DiBan
+    100008: Ding
+    100010: Glass
+    100012: GuiZi1
+    100014: GuiZi2
+    100016: Men01
+    100018: polySurface100
+    100020: polySurface1595
+    100022: polySurface1621
+    100024: polySurface1622
+    100026: polySurface1623
+    100028: polySurface1624
+    100030: polySurface1625
+    100032: polySurface1626
+    100034: polySurface1627
+    100036: polySurface1677
+    100038: polySurface1685
+    100040: polySurface1687
+    100042: polySurface1688
+    100044: polySurface1689
+    100046: XiShouChi2
+    100048: Yao
+    100050: //RootNode
+    100052: ChuangHu1
+    100054: ChuangHu_boli
+    100056: ChuZi01
+    100058: ChuZi02
+    100060: TiJiaoXian1
+    100062: wall
+    100064: XiShou
+    400000: ChuZi1
+    400002: Deng01
+    400004: Deng02
+    400006: DiBan
+    400008: Ding
+    400010: Glass
+    400012: GuiZi1
+    400014: GuiZi2
+    400016: Men01
+    400018: polySurface100
+    400020: polySurface1595
+    400022: polySurface1621
+    400024: polySurface1622
+    400026: polySurface1623
+    400028: polySurface1624
+    400030: polySurface1625
+    400032: polySurface1626
+    400034: polySurface1627
+    400036: polySurface1677
+    400038: polySurface1685
+    400040: polySurface1687
+    400042: polySurface1688
+    400044: polySurface1689
+    400046: XiShouChi2
+    400048: Yao
+    400050: //RootNode
+    400052: ChuangHu1
+    400054: ChuangHu_boli
+    400056: ChuZi01
+    400058: ChuZi02
+    400060: TiJiaoXian1
+    400062: wall
+    400064: XiShou
+    2100000: DengHei
+    2100002: DengBai
+    2100004: Ding1
+    2100006: ZhunBeiJian_glass1
+    2100008: Wall
+    2100010: DiBan2
+    2100012: DiBan1
+    2100014: BoLi
+    2100016: Men
+    2100018: xishou
+    2100020: ZLS_DiMian01
+    2100022: XiShouChi1
+    2100024: ZLS_YaoHe01
+    2100026: ZLS_YaoPing
+    2100028: BoLiPing
+    2100030: YaoXiang
+    2100032: TiJiaoXian
+    2100034: ChuZi
+    2100036: ChuZi_BoLi
+    2100038: GuiZi
+    2100040: ChuangHu
+    2100042: ZLS_ChuZi01
+    2300000: ChuZi1
+    2300002: Deng01
+    2300004: Deng02
+    2300006: DiBan
+    2300008: Ding
+    2300010: Glass
+    2300012: GuiZi1
+    2300014: GuiZi2
+    2300016: Men01
+    2300018: polySurface100
+    2300020: polySurface1595
+    2300022: polySurface1621
+    2300024: polySurface1622
+    2300026: polySurface1623
+    2300028: polySurface1624
+    2300030: polySurface1625
+    2300032: polySurface1626
+    2300034: polySurface1627
+    2300036: polySurface1677
+    2300038: polySurface1685
+    2300040: polySurface1687
+    2300042: polySurface1688
+    2300044: polySurface1689
+    2300046: XiShouChi2
+    2300048: Yao
+    2300050: ChuangHu1
+    2300052: ChuangHu_boli
+    2300054: ChuZi01
+    2300056: ChuZi02
+    2300058: TiJiaoXian1
+    2300060: XiShou
+    3300000: ChuZi1
+    3300002: Deng01
+    3300004: Deng02
+    3300006: DiBan
+    3300008: Ding
+    3300010: Glass
+    3300012: GuiZi1
+    3300014: GuiZi2
+    3300016: Men01
+    3300018: polySurface100
+    3300020: polySurface1595
+    3300022: polySurface1621
+    3300024: polySurface1622
+    3300026: polySurface1623
+    3300028: polySurface1624
+    3300030: polySurface1625
+    3300032: polySurface1626
+    3300034: polySurface1627
+    3300036: polySurface1677
+    3300038: polySurface1685
+    3300040: polySurface1687
+    3300042: polySurface1688
+    3300044: polySurface1689
+    3300046: XiShouChi2
+    3300048: Yao
+    3300050: ChuangHu1
+    3300052: ChuangHu_boli
+    3300054: ChuZi01
+    3300056: ChuZi02
+    3300058: TiJiaoXian1
+    3300060: XiShou
+    4300000: Deng02
+    4300002: Deng01
+    4300004: Ding
+    4300006: Glass
+    4300008: polySurface1626
+    4300010: polySurface1627
+    4300012: DiBan
+    4300014: polySurface1625
+    4300016: polySurface1623
+    4300018: polySurface1624
+    4300020: polySurface1622
+    4300022: Men01
+    4300024: polySurface100
+    4300026: polySurface1688
+    4300028: polySurface1689
+    4300030: XiShouChi2
+    4300032: Yao
+    4300034: polySurface1687
+    4300036: ChuZi1
+    4300038: GuiZi2
+    4300040: polySurface1621
+    4300042: GuiZi1
+    4300044: polySurface1595
+    4300046: polySurface1685
+    4300048: polySurface1677
+    4300050: TiJiaoXian1
+    4300052: XiShou
+    4300054: ChuZi01
+    4300056: ChuZi02
+    4300058: ChuangHu1
+    4300060: ChuangHu_boli
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BoLi
+    second: {fileID: 2100000, guid: 9362149bb07419e468eb1e35ee11ff75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BoLiPing
+    second: {fileID: 2100000, guid: 42a24ca850ef56645a5bae0efd084c48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChuZi
+    second: {fileID: 2100000, guid: 6e7a37ae0e4107144ba820dd12e10ed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChuZi_BoLi
+    second: {fileID: 2100000, guid: e57d2f55dc52b5e4dbd6b4f2802cd662, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChuangHu
+    second: {fileID: 2100000, guid: 69a8ad0112389984992627b18a391154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DengBai
+    second: {fileID: 2100000, guid: cf170f5e548ccfc4fb3f41f6a6c34941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DengHei
+    second: {fileID: 2100000, guid: 820ada4e2d8530547a0555754061dfec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DiBan1
+    second: {fileID: 2100000, guid: e20c9a5acb99627478405eb539d429c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DiBan2
+    second: {fileID: 2100000, guid: 185bc6e7e0f3fde4db84faaca2fbc02a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ding1
+    second: {fileID: 2100000, guid: f0850e7c0a3923d4fbe9e7a280d347b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GuiZi
+    second: {fileID: 2100000, guid: 3bd4f8d73a6ef3c4593193a408e1ef29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Men
+    second: {fileID: 2100000, guid: 0a86e171bb421254e9bf5e3694256138, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TiJiaoXian
+    second: {fileID: 2100000, guid: df356e6fcff24154aa4cf54725edf46f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TiJiaoXian2
+    second: {fileID: 2100000, guid: 77d11593050d8fe4990dabd21560be0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: fbff8b6c23e4e7d45aa38b05eddd362e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: XiShouChi1
+    second: {fileID: 2100000, guid: e34ac7048af2e8241b457aa2a5fa3395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YaoXiang
+    second: {fileID: 2100000, guid: 32e7fb667c1c25643be53f1fec0afb88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZLS_ChuZi01
+    second: {fileID: 2100000, guid: c34f073fe53897441a3bf2f695bdba7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZLS_DiMian01
+    second: {fileID: 2100000, guid: 91042f43cd4d34e41acdaf3742b1cc68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZLS_YaoHe01
+    second: {fileID: 2100000, guid: 9b15f637d217f6e4e8f9e482314cf4d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZLS_YaoPing
+    second: {fileID: 2100000, guid: 766aa77b6adceb34289938cf434e2253, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZhunBeiJian_glass1
+    second: {fileID: 2100000, guid: 02c05895f12842f4684aa85463d51b3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: xishou
+    second: {fileID: 2100000, guid: 474ae1b83005e0a439d7641bded1c9a7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

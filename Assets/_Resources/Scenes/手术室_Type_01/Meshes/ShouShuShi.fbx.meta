@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 0cbafaedc6f01d246bb00b9003beab47
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Chazuo
+    100002: Dengzi
+    100004: Dengzi1
+    100006: Dengzi2
+    100008: DiaoDingDeng
+    100010: Door
+    100012: Door_Small
+    100014: Floor
+    100016: Glass
+    100018: lajitong1
+    100020: Lajitong_Metal
+    100022: MaZuiJi2
+    100024: pCylinder4
+    100026: pCylinder4 1
+    100028: pCylinder4 2
+    100030: Platfond1
+    100032: SheBei_1_1
+    100034: SheBei_1_2
+    100036: SheBei_2_2
+    100038: SheBei_2_3
+    100040: Shelf_Wall1
+    100042: Shelf_YaoPin
+    100044: Shelf_YaoPin3
+    100046: Shelf_YaoPin4
+    100048: Shelf_YaoPin5
+    100050: //RootNode
+    100052: ShouShuShi_lajitong
+    100054: ShouShuShi_Windows_Lite
+    100056: ShouShuTai
+    100058: ShuYUeJia
+    100060: Skirt
+    100062: TuoPanChe
+    100064: TuoPanChe1
+    100066: Wall1
+    100068: WallMW1
+    100070: wire1
+    100072: wire1 1
+    100074: wire1 2
+    100076: wire2
+    100078: wire2 1
+    100080: wire2 2
+    100082: wire3
+    100084: wire3 1
+    100086: wire3 2
+    100088: wire5
+    100090: wire5 1
+    100092: wire5 2
+    100094: WorkLight
+    100096: XianShiPing1
+    100098: XianShiPing1 1
+    100100: XianShiPing2
+    100102: XianShiPing2 1
+    100104: XianShiPing2 2
+    100106: XianShiPing3
+    100108: XianShiPing3 1
+    100110: XianShiPing3 2
+    100112: XianShiPing4
+    100114: XianShiPing4 1
+    100116: XianShiPing4 2
+    100118: XianShiPing5
+    100120: XianShiPing5 1
+    100122: XianShiPing5 2
+    100124: XianShiPing6
+    100126: XianShiPing6 1
+    100128: XianShiPing6 2
+    100130: XianShiPing7
+    100132: XiShouTai
+    100134: XiYinZHungZhi
+    100136: YuPianDeng1
+    100138: YuPianDeng2
+    100140: ZhaoMing1
+    100142: ZhaoMing1 1
+    100144: ZhaoMing10
+    100146: ZhaoMing2
+    100148: ZhaoMing2 1
+    100150: ZhaoMing2 2
+    100152: ZhaoMing3
+    100154: ZhaoMing3 1
+    100156: ZhaoMing3 2
+    100158: ZhaoMing4
+    100160: ZhaoMing4 1
+    100162: ZhaoMing4 2
+    100164: ZhaoMing5
+    100166: ZhaoMing5 1
+    100168: ZhaoMing5 2
+    100170: ZhaoMing6
+    100172: ZhaoMing6 1
+    100174: ZhaoMing6 2
+    100176: ZhaoMing7
+    100178: ZhaoMing7 1
+    100180: ZhaoMing7 2
+    100182: ZhaoMing8
+    100184: ZhaoMing8 1
+    100186: ZhaoMing8 2
+    100188: ZhaoMing9
+    100190: ZhaoMing9 1
+    100192: ZhaoMing9 2
+    100194: Zhuozi_Small1
+    100196: QiXieTai1
+    100198: ShiDuJi1
+    400000: Chazuo
+    400002: Dengzi
+    400004: Dengzi1
+    400006: Dengzi2
+    400008: DiaoDingDeng
+    400010: Door
+    400012: Door_Small
+    400014: Floor
+    400016: Glass
+    400018: lajitong1
+    400020: Lajitong_Metal
+    400022: MaZuiJi2
+    400024: pCylinder4
+    400026: pCylinder4 1
+    400028: pCylinder4 2
+    400030: Platfond1
+    400032: SheBei_1_1
+    400034: SheBei_1_2
+    400036: SheBei_2_2
+    400038: SheBei_2_3
+    400040: Shelf_Wall1
+    400042: Shelf_YaoPin
+    400044: Shelf_YaoPin3
+    400046: Shelf_YaoPin4
+    400048: Shelf_YaoPin5
+    400050: //RootNode
+    400052: ShouShuShi_lajitong
+    400054: ShouShuShi_Windows_Lite
+    400056: ShouShuTai
+    400058: ShuYUeJia
+    400060: Skirt
+    400062: TuoPanChe
+    400064: TuoPanChe1
+    400066: Wall1
+    400068: WallMW1
+    400070: wire1
+    400072: wire1 1
+    400074: wire1 2
+    400076: wire2
+    400078: wire2 1
+    400080: wire2 2
+    400082: wire3
+    400084: wire3 1
+    400086: wire3 2
+    400088: wire5
+    400090: wire5 1
+    400092: wire5 2
+    400094: WorkLight
+    400096: XianShiPing1
+    400098: XianShiPing1 1
+    400100: XianShiPing2
+    400102: XianShiPing2 1
+    400104: XianShiPing2 2
+    400106: XianShiPing3
+    400108: XianShiPing3 1
+    400110: XianShiPing3 2
+    400112: XianShiPing4
+    400114: XianShiPing4 1
+    400116: XianShiPing4 2
+    400118: XianShiPing5
+    400120: XianShiPing5 1
+    400122: XianShiPing5 2
+    400124: XianShiPing6
+    400126: XianShiPing6 1
+    400128: XianShiPing6 2
+    400130: XianShiPing7
+    400132: XiShouTai
+    400134: XiYinZHungZhi
+    400136: YuPianDeng1
+    400138: YuPianDeng2
+    400140: ZhaoMing1
+    400142: ZhaoMing1 1
+    400144: ZhaoMing10
+    400146: ZhaoMing2
+    400148: ZhaoMing2 1
+    400150: ZhaoMing2 2
+    400152: ZhaoMing3
+    400154: ZhaoMing3 1
+    400156: ZhaoMing3 2
+    400158: ZhaoMing4
+    400160: ZhaoMing4 1
+    400162: ZhaoMing4 2
+    400164: ZhaoMing5
+    400166: ZhaoMing5 1
+    400168: ZhaoMing5 2
+    400170: ZhaoMing6
+    400172: ZhaoMing6 1
+    400174: ZhaoMing6 2
+    400176: ZhaoMing7
+    400178: ZhaoMing7 1
+    400180: ZhaoMing7 2
+    400182: ZhaoMing8
+    400184: ZhaoMing8 1
+    400186: ZhaoMing8 2
+    400188: ZhaoMing9
+    400190: ZhaoMing9 1
+    400192: ZhaoMing9 2
+    400194: Zhuozi_Small1
+    400196: QiXieTai1
+    400198: ShiDuJi1
+    2100000: PlatfondM
+    2100002: DengBai
+    2100004: DengHei
+    2100006: Dengdanlan
+    2100008: DengziM
+    2100010: Lajitong_MetalM
+    2100012: lambert2
+    2100014: ShuYUeJia1
+    2100016: SheBei_2M
+    2100018: YiqiM
+    2100020: XiYinZHungZhi_wuti
+    2100022: XiYinZHungZhi_boli
+    2100024: Shelf_YPM
+    2100026: Z_Glass
+    2100028: Windows_LiteM
+    2100030: YuPianDeng_PianZi1
+    2100032: YuPianDeng_Deng1
+    2100034: YuPianDeng_Deng2
+    2100036: Lajitong_M_02
+    2100038: Lajitong_M_01
+    2100040: LightBoxM
+    2100042: MaZuiJi02
+    2100044: MaZuiJi01
+    2100046: MaZuiJi01_TouMing
+    2100048: MaZuiJi02_TouMing
+    2100050: DoorM
+    2100052: WallMW
+    2100054: Floor4
+    2100056: ShouShuTaiM
+    2100058: Door_SmallM
+    2100060: SkirtM
+    2100062: SheBei_1_M
+    2100064: SheBei_1_MonitorM
+    2100066: SheBei_1_LightM
+    2100068: TuoPanCheM
+    2100070: XiShouTaiM
+    2100072: Zhuozi_SmallM
+    2100074: Shelf_Wall
+    2300000: Chazuo
+    2300002: Dengzi
+    2300004: Dengzi1
+    2300006: Dengzi2
+    2300008: DiaoDingDeng
+    2300010: Door
+    2300012: Door_Small
+    2300014: Floor
+    2300016: Glass
+    2300018: lajitong1
+    2300020: Lajitong_Metal
+    2300022: MaZuiJi2
+    2300024: pCylinder4
+    2300026: pCylinder4 1
+    2300028: pCylinder4 2
+    2300030: Platfond1
+    2300032: SheBei_1_1
+    2300034: SheBei_1_2
+    2300036: SheBei_2_2
+    2300038: SheBei_2_3
+    2300040: Shelf_Wall1
+    2300042: Shelf_YaoPin
+    2300044: Shelf_YaoPin3
+    2300046: Shelf_YaoPin4
+    2300048: Shelf_YaoPin5
+    2300050: ShouShuShi_lajitong
+    2300052: ShouShuShi_Windows_Lite
+    2300054: ShouShuTai
+    2300056: ShuYUeJia
+    2300058: Skirt
+    2300060: TuoPanChe
+    2300062: TuoPanChe1
+    2300064: Wall1
+    2300066: WallMW1
+    2300068: wire1
+    2300070: wire1 1
+    2300072: wire1 2
+    2300074: wire2
+    2300076: wire2 1
+    2300078: wire2 2
+    2300080: wire3
+    2300082: wire3 1
+    2300084: wire3 2
+    2300086: wire5
+    2300088: wire5 1
+    2300090: wire5 2
+    2300092: WorkLight
+    2300094: XianShiPing1
+    2300096: XianShiPing1 1
+    2300098: XianShiPing2
+    2300100: XianShiPing2 1
+    2300102: XianShiPing2 2
+    2300104: XianShiPing3
+    2300106: XianShiPing3 1
+    2300108: XianShiPing3 2
+    2300110: XianShiPing4
+    2300112: XianShiPing4 1
+    2300114: XianShiPing4 2
+    2300116: XianShiPing5
+    2300118: XianShiPing5 1
+    2300120: XianShiPing5 2
+    2300122: XianShiPing6
+    2300124: XianShiPing6 1
+    2300126: XianShiPing6 2
+    2300128: XianShiPing7
+    2300130: XiShouTai
+    2300132: XiYinZHungZhi
+    2300134: YuPianDeng1
+    2300136: YuPianDeng2
+    2300138: ZhaoMing1
+    2300140: ZhaoMing1 1
+    2300142: ZhaoMing10
+    2300144: ZhaoMing2
+    2300146: ZhaoMing2 1
+    2300148: ZhaoMing2 2
+    2300150: ZhaoMing3
+    2300152: ZhaoMing3 1
+    2300154: ZhaoMing3 2
+    2300156: ZhaoMing4
+    2300158: ZhaoMing4 1
+    2300160: ZhaoMing4 2
+    2300162: ZhaoMing5
+    2300164: ZhaoMing5 1
+    2300166: ZhaoMing5 2
+    2300168: ZhaoMing6
+    2300170: ZhaoMing6 1
+    2300172: ZhaoMing6 2
+    2300174: ZhaoMing7
+    2300176: ZhaoMing7 1
+    2300178: ZhaoMing7 2
+    2300180: ZhaoMing8
+    2300182: ZhaoMing8 1
+    2300184: ZhaoMing8 2
+    2300186: ZhaoMing9
+    2300188: ZhaoMing9 1
+    2300190: ZhaoMing9 2
+    2300192: Zhuozi_Small1
+    2300194: QiXieTai1
+    2300196: ShiDuJi1
+    3300000: Chazuo
+    3300002: Dengzi
+    3300004: Dengzi1
+    3300006: Dengzi2
+    3300008: DiaoDingDeng
+    3300010: Door
+    3300012: Door_Small
+    3300014: Floor
+    3300016: Glass
+    3300018: lajitong1
+    3300020: Lajitong_Metal
+    3300022: MaZuiJi2
+    3300024: pCylinder4
+    3300026: pCylinder4 1
+    3300028: pCylinder4 2
+    3300030: Platfond1
+    3300032: SheBei_1_1
+    3300034: SheBei_1_2
+    3300036: SheBei_2_2
+    3300038: SheBei_2_3
+    3300040: Shelf_Wall1
+    3300042: Shelf_YaoPin
+    3300044: Shelf_YaoPin3
+    3300046: Shelf_YaoPin4
+    3300048: Shelf_YaoPin5
+    3300050: ShouShuShi_lajitong
+    3300052: ShouShuShi_Windows_Lite
+    3300054: ShouShuTai
+    3300056: ShuYUeJia
+    3300058: Skirt
+    3300060: TuoPanChe
+    3300062: TuoPanChe1
+    3300064: Wall1
+    3300066: WallMW1
+    3300068: wire1
+    3300070: wire1 1
+    3300072: wire1 2
+    3300074: wire2
+    3300076: wire2 1
+    3300078: wire2 2
+    3300080: wire3
+    3300082: wire3 1
+    3300084: wire3 2
+    3300086: wire5
+    3300088: wire5 1
+    3300090: wire5 2
+    3300092: WorkLight
+    3300094: XianShiPing1
+    3300096: XianShiPing1 1
+    3300098: XianShiPing2
+    3300100: XianShiPing2 1
+    3300102: XianShiPing2 2
+    3300104: XianShiPing3
+    3300106: XianShiPing3 1
+    3300108: XianShiPing3 2
+    3300110: XianShiPing4
+    3300112: XianShiPing4 1
+    3300114: XianShiPing4 2
+    3300116: XianShiPing5
+    3300118: XianShiPing5 1
+    3300120: XianShiPing5 2
+    3300122: XianShiPing6
+    3300124: XianShiPing6 1
+    3300126: XianShiPing6 2
+    3300128: XianShiPing7
+    3300130: XiShouTai
+    3300132: XiYinZHungZhi
+    3300134: YuPianDeng1
+    3300136: YuPianDeng2
+    3300138: ZhaoMing1
+    3300140: ZhaoMing1 1
+    3300142: ZhaoMing10
+    3300144: ZhaoMing2
+    3300146: ZhaoMing2 1
+    3300148: ZhaoMing2 2
+    3300150: ZhaoMing3
+    3300152: ZhaoMing3 1
+    3300154: ZhaoMing3 2
+    3300156: ZhaoMing4
+    3300158: ZhaoMing4 1
+    3300160: ZhaoMing4 2
+    3300162: ZhaoMing5
+    3300164: ZhaoMing5 1
+    3300166: ZhaoMing5 2
+    3300168: ZhaoMing6
+    3300170: ZhaoMing6 1
+    3300172: ZhaoMing6 2
+    3300174: ZhaoMing7
+    3300176: ZhaoMing7 1
+    3300178: ZhaoMing7 2
+    3300180: ZhaoMing8
+    3300182: ZhaoMing8 1
+    3300184: ZhaoMing8 2
+    3300186: ZhaoMing9
+    3300188: ZhaoMing9 1
+    3300190: ZhaoMing9 2
+    3300192: Zhuozi_Small1
+    3300194: QiXieTai1
+    3300196: ShiDuJi1
+    4300000: Platfond1
+    4300002: DiaoDingDeng
+    4300004: Lajitong_Metal
+    4300006: Chazuo
+    4300008: ShuYUeJia
+    4300010: SheBei_2_3
+    4300012: XiYinZHungZhi
+    4300014: Shelf_YaoPin5
+    4300016: Shelf_YaoPin4
+    4300018: Shelf_YaoPin3
+    4300020: ShouShuShi_Windows_Lite
+    4300022: YuPianDeng1
+    4300024: YuPianDeng2
+    4300026: Shelf_YaoPin
+    4300028: lajitong1
+    4300030: ShouShuShi_lajitong
+    4300032: WorkLight
+    4300034: MaZuiJi2
+    4300036: SheBei_2_2
+    4300038: Door
+    4300040: Glass
+    4300042: Wall1
+    4300044: Floor
+    4300046: ShouShuTai
+    4300048: Door_Small
+    4300050: Skirt
+    4300052: SheBei_1_1
+    4300054: XianShiPing1
+    4300056: XianShiPing2
+    4300058: XianShiPing3
+    4300060: XianShiPing4
+    4300062: XianShiPing5
+    4300064: XianShiPing6
+    4300066: wire5
+    4300068: wire3
+    4300070: wire2
+    4300072: wire1
+    4300074: ZhaoMing1
+    4300076: ZhaoMing2
+    4300078: ZhaoMing3
+    4300080: ZhaoMing4
+    4300082: ZhaoMing5
+    4300084: ZhaoMing7
+    4300086: ZhaoMing8
+    4300088: ZhaoMing9
+    4300090: ZhaoMing6
+    4300092: pCylinder4
+    4300094: XianShiPing7
+    4300096: XianShiPing2
+    4300098: XianShiPing3
+    4300100: XianShiPing4
+    4300102: XianShiPing5
+    4300104: XianShiPing6
+    4300106: wire5
+    4300108: wire3
+    4300110: wire2
+    4300112: wire1
+    4300114: SheBei_1_2
+    4300116: XianShiPing1
+    4300118: XianShiPing2
+    4300120: XianShiPing3
+    4300122: XianShiPing4
+    4300124: XianShiPing5
+    4300126: XianShiPing6
+    4300128: wire5
+    4300130: wire3
+    4300132: wire2
+    4300134: wire1
+    4300136: ZhaoMing1
+    4300138: ZhaoMing2
+    4300140: ZhaoMing3
+    4300142: ZhaoMing4
+    4300144: ZhaoMing5
+    4300146: ZhaoMing7
+    4300148: ZhaoMing8
+    4300150: ZhaoMing9
+    4300152: ZhaoMing6
+    4300154: pCylinder4
+    4300156: ZhaoMing10
+    4300158: ZhaoMing2
+    4300160: ZhaoMing3
+    4300162: ZhaoMing4
+    4300164: ZhaoMing5
+    4300166: ZhaoMing7
+    4300168: ZhaoMing8
+    4300170: ZhaoMing9
+    4300172: ZhaoMing6
+    4300174: pCylinder4
+    4300176: TuoPanChe
+    4300178: TuoPanChe1
+    4300180: XiShouTai
+    4300182: Dengzi
+    4300184: Dengzi1
+    4300186: Dengzi2
+    4300188: Zhuozi_Small1
+    4300190: Shelf_Wall1
+    4300192: WallMW1
+    4300194: QiXieTai1
+    4300196: ShiDuJi1
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DengBai
+    second: {fileID: 2100000, guid: 0374ad020cafe1f4193566fcb9415c85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DengHei
+    second: {fileID: 2100000, guid: 66f5c89a3c5892d4aa0dfabc0edfeb9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dengdanlan
+    second: {fileID: 2100000, guid: 8a9f7ad3bfc330444be32a872a79b446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DengziM
+    second: {fileID: 2100000, guid: c60550dbbc1ee5a4996f7f9dd2beb868, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorM
+    second: {fileID: 2100000, guid: c1067825d3749494393c5c3952e87a8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_SmallM
+    second: {fileID: 2100000, guid: 89150c364c7008741bdf747f3db8b63b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor4
+    second: {fileID: 2100000, guid: a24481851fe7eae49b4531e154912d98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lajitong_M_01
+    second: {fileID: 2100000, guid: 7ab39a509b6125547af51a9240bf03be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lajitong_M_02
+    second: {fileID: 2100000, guid: 23ad2d1e323a05e4e9b159bd36f79696, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lajitong_MetalM
+    second: {fileID: 2100000, guid: e4c1c5e39061958428ec9fd2a2640247, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightBoxM
+    second: {fileID: 2100000, guid: 317ea7062f64deb448362427a6022546, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaZuiJi01
+    second: {fileID: 2100000, guid: bcc4913d85bef364c89fb0fa3123b5a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaZuiJi01_TouMing
+    second: {fileID: 2100000, guid: a3e5200e4beb2714aacf0195a3a22395, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaZuiJi02
+    second: {fileID: 2100000, guid: 212d2c20a9da0f347840c34f35f26266, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MaZuiJi02_TouMing
+    second: {fileID: 2100000, guid: bce707d786d66684f96fba1af4e5f8fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PlatfondM
+    second: {fileID: 2100000, guid: 375ce248db94c034289bae10340505ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: QiXieTai
+    second: {fileID: 2100000, guid: e7b07373b8033c24cb72330b826ffe74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SheBei_1_LightM
+    second: {fileID: 2100000, guid: c7d13fe5608121a4293aeff2c4b7e2ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SheBei_1_M
+    second: {fileID: 2100000, guid: 86a2dab24b415f3459578d429245759a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SheBei_1_MonitorM
+    second: {fileID: 2100000, guid: f3dd247e46597104da69b6813020caae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SheBei_2M
+    second: {fileID: 2100000, guid: 1ef26c66e1a93224d9b1802ff946b0a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shelf_Wall
+    second: {fileID: 2100000, guid: 8a686f56611d7084c80ec4eed4b95d2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shelf_YPM
+    second: {fileID: 2100000, guid: f61422c2019968b4bbfccf67095902e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShiDuJi
+    second: {fileID: 2100000, guid: fb8e3601b9b58e149a600d55242fd5a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShiDuJi_TouMing
+    second: {fileID: 2100000, guid: 9822b34f3cdf2da4ba00eb027c548d6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShouShuTaiM
+    second: {fileID: 2100000, guid: 86350004472960546a8af8842d5ea2a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ShuYUeJia1
+    second: {fileID: 2100000, guid: 68ad2c8b71b2b5349b06d4c60e0cc82f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkirtM
+    second: {fileID: 2100000, guid: 103893d4326ad9945a98923c314aae83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TuoPanCheM
+    second: {fileID: 2100000, guid: f1670720bd3015a4da2b276c1974eadb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallMW
+    second: {fileID: 2100000, guid: a0033d1c6d863c848b0c18921b31bdec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Windows_LiteM
+    second: {fileID: 2100000, guid: 572cc6e9068c4b54595dde466837f037, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: XiShouTaiM
+    second: {fileID: 2100000, guid: 71ed7b5e5b526434ba0536b142e04721, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: XiYinZHungZhi_boli
+    second: {fileID: 2100000, guid: 7a3473c82518ce94cadd2898564b646b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: XiYinZHungZhi_wuti
+    second: {fileID: 2100000, guid: 21c2832e72fd0964891e4b1a268c39db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YiqiM
+    second: {fileID: 2100000, guid: 294ad81535a629e42926501215572b8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YuPianDeng_Deng1
+    second: {fileID: 2100000, guid: 3ffba2b3f4c21f746835657e4b2917d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YuPianDeng_Deng2
+    second: {fileID: 2100000, guid: bbcfbd3515404b04ca410f51f7b7b85c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YuPianDeng_PianZi1
+    second: {fileID: 2100000, guid: b4b29aceb8ecff44ab3203f893470afc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Z_Glass
+    second: {fileID: 2100000, guid: 41fe1294fc295da49b6d2f039ce5af21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Zhuozi_SmallM
+    second: {fileID: 2100000, guid: b5e0a1dd36e4b4a499e5a448d8cbd62b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 9f22467a2cdfc674f83b31a95476c34f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

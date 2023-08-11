@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 4067816674
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43c16dd67c3c6c2726d298eb2498137c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/_Resources/Audio/SoundEffect/Pou.mp3
+- "Assets/_Resources/Audio/SoundEffect/\u9519\u8BEF.mp3"
+- "Assets/_Resources/Audio/SoundEffect/\u5F00\u59CB.mp3"
+- Assets/_Resources/Audio/SoundEffect/Show page turn.mp3
+- "Assets/_Resources/Audio/SoundEffect/\u70B9\u51FB.wav"
+- "Assets/_Resources/Audio/SoundEffect/\u6C34\u6CE1.mp3"
+- "Assets/_Resources/Audio/SoundEffect/\u63D0\u793A.wav"
+- "Assets/_Resources/Audio/SoundEffect/\u786E\u8BA4.mp3"
+- Assets/_Resources/Audio/SoundEffect/Default.mp3
+- "Assets/_Resources/Audio/SoundEffect/\u9009\u62E9.mp3"
+- "Assets/_Resources/Audio/SoundEffect/\u8FDB\u5165.mp3"
+- "Assets/_Resources/Audio/SoundEffect/\u7FFB\u8F6C.mp3"
+Dependencies: []

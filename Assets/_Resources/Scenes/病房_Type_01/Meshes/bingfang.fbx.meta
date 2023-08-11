@@ -1,0 +1,618 @@
+fileFormatVersion: 2
+guid: d90eacb0879388440a3f6159146fbbd9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: def:pCube133
+    100004: def:pCube134
+    100006: def:pCube135
+    100008: def:pCube136
+    100010: def:polySurface41
+    100012: def:polySurface42
+    100014: def:polySurface46
+    100016: def:polySurface54
+    100018: def:polySurface55
+    100020: def:polySurface56
+    100022: def:polySurface59
+    100024: def:polySurface60
+    100026: def:polySurface62
+    100028: def:polySurface63
+    100030: def:polySurface64
+    100032: def:polySurface65
+    100034: def:polySurface66
+    100036: def:polySurface67
+    100038: def:polySurface68
+    100040: def:polySurface69
+    100042: def:polySurface70
+    100044: def:polySurface71
+    100046: def:polySurface72
+    100048: def:polySurface73
+    100050: def:polySurface74
+    100052: def:polySurface75
+    100054: def:polySurface76
+    100056: def:pPlane1
+    100058: def:pPlane2
+    100060: def:pPlane3
+    100062: def:Rectangle34353586
+    100064: def:Rectangle34353587
+    100066: def:wu:Arch35_008_03
+    100068: def:wu:Arch35_008_07
+    100070: def:wu:Arch35_008_13
+    100072: def:wu:Box18
+    100074: def:wu:WRectangle04
+    100076: def:wu:WRectangle05
+    100078: def:z1:pCube34
+    100080: BoLi1
+    100082: ChangLian
+    100084: ChaZuo
+    100086: Chuang
+    100088: Chuang1
+    100090: ChuangTou1
+    100092: ChuangTouGui01
+    100094: ChuangTouGui02
+    100096: chuangtouka
+    100098: ChuZi1
+    100100: Deng
+    100102: DianShi1
+    100104: DiBan1
+    100106: Men01
+    100108: PenZai
+    100110: polySurface81
+    100112: Wall
+    100114: Wall1
+    100116: WuDing
+    100118: ZhenTou
+    100120: ZhenTou 1
+    100122: ZhuangShi01
+    100124: ZhuangShi02
+    100126: zw1
+    100128: zw2
+    100130: ChuangTouGui03
+    100132: Chuang3
+    400000: //RootNode
+    400002: def:pCube133
+    400004: def:pCube134
+    400006: def:pCube135
+    400008: def:pCube136
+    400010: def:polySurface41
+    400012: def:polySurface42
+    400014: def:polySurface46
+    400016: def:polySurface54
+    400018: def:polySurface55
+    400020: def:polySurface56
+    400022: def:polySurface59
+    400024: def:polySurface60
+    400026: def:polySurface62
+    400028: def:polySurface63
+    400030: def:polySurface64
+    400032: def:polySurface65
+    400034: def:polySurface66
+    400036: def:polySurface67
+    400038: def:polySurface68
+    400040: def:polySurface69
+    400042: def:polySurface70
+    400044: def:polySurface71
+    400046: def:polySurface72
+    400048: def:polySurface73
+    400050: def:polySurface74
+    400052: def:polySurface75
+    400054: def:polySurface76
+    400056: def:pPlane1
+    400058: def:pPlane2
+    400060: def:pPlane3
+    400062: def:Rectangle34353586
+    400064: def:Rectangle34353587
+    400066: def:wu:Arch35_008_03
+    400068: def:wu:Arch35_008_07
+    400070: def:wu:Arch35_008_13
+    400072: def:wu:Box18
+    400074: def:wu:WRectangle04
+    400076: def:wu:WRectangle05
+    400078: def:z1:pCube34
+    400080: BoLi1
+    400082: ChangLian
+    400084: ChaZuo
+    400086: Chuang
+    400088: Chuang1
+    400090: ChuangTou1
+    400092: ChuangTouGui01
+    400094: ChuangTouGui02
+    400096: chuangtouka
+    400098: ChuZi1
+    400100: Deng
+    400102: DianShi1
+    400104: DiBan1
+    400106: Men01
+    400108: PenZai
+    400110: polySurface81
+    400112: Wall
+    400114: Wall1
+    400116: WuDing
+    400118: ZhenTou
+    400120: ZhenTou 1
+    400122: ZhuangShi01
+    400124: ZhuangShi02
+    400126: zw1
+    400128: zw2
+    400130: ChuangTouGui03
+    400132: Chuang3
+    2100000: def_CCC1
+    2100002: def_DDD1
+    2100004: def_BBB1
+    2100006: def_lambert29
+    2100008: def_wu_lambert2
+    2100010: def_pppp_bingfang_blinn9
+    2100012: def_wu_blinn30
+    2100014: def_AAA1
+    2100016: blinn4
+    2300000: def:pCube133
+    2300002: def:pCube134
+    2300004: def:pCube135
+    2300006: def:pCube136
+    2300008: def:polySurface41
+    2300010: def:polySurface42
+    2300012: def:polySurface46
+    2300014: def:polySurface54
+    2300016: def:polySurface55
+    2300018: def:polySurface56
+    2300020: def:polySurface59
+    2300022: def:polySurface60
+    2300024: def:polySurface62
+    2300026: def:polySurface63
+    2300028: def:polySurface64
+    2300030: def:polySurface65
+    2300032: def:polySurface66
+    2300034: def:polySurface67
+    2300036: def:polySurface68
+    2300038: def:polySurface69
+    2300040: def:polySurface70
+    2300042: def:polySurface71
+    2300044: def:polySurface72
+    2300046: def:polySurface73
+    2300048: def:polySurface74
+    2300050: def:polySurface75
+    2300052: def:polySurface76
+    2300054: def:pPlane1
+    2300056: def:pPlane2
+    2300058: def:pPlane3
+    2300060: def:Rectangle34353586
+    2300062: def:Rectangle34353587
+    2300064: def:wu:Arch35_008_03
+    2300066: def:wu:Arch35_008_07
+    2300068: def:wu:Arch35_008_13
+    2300070: def:wu:Box18
+    2300072: def:wu:WRectangle04
+    2300074: def:wu:WRectangle05
+    2300076: def:z1:pCube34
+    2300078: BoLi1
+    2300080: ChangLian
+    2300082: ChaZuo
+    2300084: Chuang
+    2300086: Chuang1
+    2300088: ChuangTou1
+    2300090: ChuangTouGui01
+    2300092: ChuangTouGui02
+    2300094: chuangtouka
+    2300096: ChuZi1
+    2300098: Deng
+    2300100: DianShi1
+    2300102: DiBan1
+    2300104: Men01
+    2300106: PenZai
+    2300108: polySurface81
+    2300110: Wall
+    2300112: Wall1
+    2300114: WuDing
+    2300116: ZhenTou
+    2300118: ZhenTou 1
+    2300120: ZhuangShi01
+    2300122: ZhuangShi02
+    2300124: zw1
+    2300126: zw2
+    2300128: ChuangTouGui03
+    2300130: Chuang3
+    3300000: def:pCube133
+    3300002: def:pCube134
+    3300004: def:pCube135
+    3300006: def:pCube136
+    3300008: def:polySurface41
+    3300010: def:polySurface42
+    3300012: def:polySurface46
+    3300014: def:polySurface54
+    3300016: def:polySurface55
+    3300018: def:polySurface56
+    3300020: def:polySurface59
+    3300022: def:polySurface60
+    3300024: def:polySurface62
+    3300026: def:polySurface63
+    3300028: def:polySurface64
+    3300030: def:polySurface65
+    3300032: def:polySurface66
+    3300034: def:polySurface67
+    3300036: def:polySurface68
+    3300038: def:polySurface69
+    3300040: def:polySurface70
+    3300042: def:polySurface71
+    3300044: def:polySurface72
+    3300046: def:polySurface73
+    3300048: def:polySurface74
+    3300050: def:polySurface75
+    3300052: def:polySurface76
+    3300054: def:pPlane1
+    3300056: def:pPlane2
+    3300058: def:pPlane3
+    3300060: def:Rectangle34353586
+    3300062: def:Rectangle34353587
+    3300064: def:wu:Arch35_008_03
+    3300066: def:wu:Arch35_008_07
+    3300068: def:wu:Arch35_008_13
+    3300070: def:wu:Box18
+    3300072: def:wu:WRectangle04
+    3300074: def:wu:WRectangle05
+    3300076: def:z1:pCube34
+    3300078: BoLi1
+    3300080: ChangLian
+    3300082: ChaZuo
+    3300084: Chuang
+    3300086: Chuang1
+    3300088: ChuangTou1
+    3300090: ChuangTouGui01
+    3300092: ChuangTouGui02
+    3300094: chuangtouka
+    3300096: ChuZi1
+    3300098: Deng
+    3300100: DianShi1
+    3300102: DiBan1
+    3300104: Men01
+    3300106: PenZai
+    3300108: polySurface81
+    3300110: Wall
+    3300112: Wall1
+    3300114: WuDing
+    3300116: ZhenTou
+    3300118: ZhenTou 1
+    3300120: ZhuangShi01
+    3300122: ZhuangShi02
+    3300124: zw1
+    3300126: zw2
+    3300128: ChuangTouGui03
+    3300130: Chuang3
+    4300000: def:polySurface59
+    4300002: def:polySurface56
+    4300004: def:wu:Box18
+    4300006: def:wu:WRectangle04
+    4300008: def:polySurface75
+    4300010: def:polySurface74
+    4300012: def:polySurface73
+    4300014: def:pPlane2
+    4300016: def:pPlane1
+    4300018: def:polySurface55
+    4300020: def:polySurface54
+    4300022: def:pPlane3
+    4300024: def:polySurface63
+    4300026: def:polySurface62
+    4300028: def:polySurface60
+    4300030: def:polySurface65
+    4300032: def:polySurface64
+    4300034: def:wu:Arch35_008_13
+    4300036: def:wu:Arch35_008_07
+    4300038: def:wu:WRectangle05
+    4300040: def:wu:Arch35_008_03
+    4300042: def:z1:pCube34
+    4300044: def:pCube136
+    4300046: def:pCube135
+    4300048: def:polySurface76
+    4300050: def:polySurface68
+    4300052: def:polySurface67
+    4300054: def:polySurface66
+    4300056: def:pCube134
+    4300058: def:polySurface72
+    4300060: def:polySurface71
+    4300062: def:polySurface46
+    4300064: def:polySurface70
+    4300066: def:polySurface69
+    4300068: def:pCube133
+    4300070: def:polySurface42
+    4300072: def:polySurface41
+    4300074: def:Rectangle34353587
+    4300076: def:Rectangle34353586
+    4300078: DianShi1
+    4300080: chuangtouka
+    4300082: ChuZi1
+    4300084: Men01
+    4300086: BoLi1
+    4300088: PenZai
+    4300090: zw2
+    4300092: zw1
+    4300094: Deng
+    4300096: ChaZuo
+    4300098: ChangLian
+    4300100: Chuang
+    4300102: ZhenTou
+    4300104: Chuang1
+    4300106: ZhenTou
+    4300108: ChuangTou1
+    4300110: WuDing
+    4300112: Wall
+    4300114: Wall1
+    4300116: DiBan1
+    4300118: ChuangTouGui01
+    4300120: ZhuangShi01
+    4300122: polySurface81
+    4300124: ChuangTouGui02
+    4300126: ZhuangShi02
+    4300128: ChuangTouGui03
+    4300130: Chuang3
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BoLi
+    second: {fileID: 2100000, guid: 322adfa029c019a40ae0ec1c6031322b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChaZuo2
+    second: {fileID: 2100000, guid: 603911345440e3b488342bfa209a3958, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChangLian1
+    second: {fileID: 2100000, guid: e58e8da64e371ac42a8ecf9453597b74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChuZi
+    second: {fileID: 2100000, guid: cb4dde73f7dfbc54cb262cd853425840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chuang2
+    second: {fileID: 2100000, guid: 6937d22e5698c3143b6438f75d3e7c94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChuangTou
+    second: {fileID: 2100000, guid: d794b23fccd6e984caa15493e84cd2cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChuangTouKa
+    second: {fileID: 2100000, guid: dc903366a3bc0444d81480b7d14fc0c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DengBai
+    second: {fileID: 2100000, guid: 103f613000fd2f34eb1272ad4f97e129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DengHei
+    second: {fileID: 2100000, guid: c994fa17718e07345a5b309183607640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DiBan
+    second: {fileID: 2100000, guid: 2d2f76bef19e0c54d81997a5476b284e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DiBan2
+    second: {fileID: 2100000, guid: 3f4664b0c06d44c47862df1a6d38910f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DianShi
+    second: {fileID: 2100000, guid: 9cdb35eb89486c0498d646439388a365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Men
+    second: {fileID: 2100000, guid: 354949b8dab141848a488f3be8440b06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WuDing1
+    second: {fileID: 2100000, guid: ebadac1d8a58b1843bce3ff571d99ef9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YeZi
+    second: {fileID: 2100000, guid: 3ea9a8696c0c05e44abc8d39d4e7f278, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZhiWu
+    second: {fileID: 2100000, guid: 9d941d10b05b63348a6317dd28619346, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZhiWu_Tu
+    second: {fileID: 2100000, guid: 715c0d1894e1af8418e64327b7842f9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ZhiWu_huapen1
+    second: {fileID: 2100000, guid: 778168aca7db92e44ac8aac63e6efa59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn33
+    second: {fileID: 2100000, guid: 2fb0c50bb927f234996365d989a4a96b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn4
+    second: {fileID: 2100000, guid: d7b273c95a5e73c4fbd251500d8e88ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: def_AAA1
+    second: {fileID: 2100000, guid: cc2f6866b45621c47bb7a424b611f5d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: def_BBB1
+    second: {fileID: 2100000, guid: 1a768565327d564459e0e123ce87151b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: def_CCC1
+    second: {fileID: 2100000, guid: 913e75b8c19eb384da75a23d91b3f855, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: def_DDD1
+    second: {fileID: 2100000, guid: 1be9544a852a07244ad294416381ad6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: def_lambert29
+    second: {fileID: 2100000, guid: 8bea961398c5e594a8ccf3f2280008a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: def_pppp_bingfang_blinn9
+    second: {fileID: 2100000, guid: fc42d43da2728fb468aad66616ad17b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: def_wu_blinn30
+    second: {fileID: 2100000, guid: df63bf76161467142863ea9ff3ab1cbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: def_wu_lambert2
+    second: {fileID: 2100000, guid: e9230ae7b239a084ba83a73dfa90d912, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hua01s
+    second: {fileID: 2100000, guid: f64e6d8e93131fd4997ae185687d0966, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hua01x
+    second: {fileID: 2100000, guid: c753bf6b6c7fd1e4182e457d1ec52f83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hua1s
+    second: {fileID: 2100000, guid: f6f95ac73f0d47340a3da57c6fa44dc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hua1x
+    second: {fileID: 2100000, guid: 23b82953a8fa0c44c8be5c3a55c03810, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: f5915a9812333a949b491b1b17c90d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: 83715d2e540e6f2439b6dcf09a80d3a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall80
+    second: {fileID: 2100000, guid: 18aa98a346a38ee4289cdded2e92d831, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall81
+    second: {fileID: 2100000, guid: b777c996c0b3c1b4cb565890ff1c88c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: zw_pen2
+    second: {fileID: 2100000, guid: c523dafd83b942d47b58bb866f9f19bf, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

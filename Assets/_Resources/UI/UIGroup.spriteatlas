@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIGroup
+  serializedVersion: 2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 41bb6f770bfbf0349b2ecef27bef357f, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8f6245604ce6ed04394d8fdb2e134279, type: 3}
+  - {fileID: 21300000, guid: 58dd2ff1c46a3c24d8f6ca04dc97d573, type: 3}
+  - {fileID: 21300000, guid: d84bf1922507e1d47943b090ff461925, type: 3}
+  - {fileID: 21300000, guid: 18d2faf52ef569c47b81c592a4c40308, type: 3}
+  - {fileID: 21300000, guid: 16a26687ae300f347bb10a09012c049f, type: 3}
+  - {fileID: 21300000, guid: b907ac888075f7d42955771d8df7908e, type: 3}
+  - {fileID: 21300000, guid: 2bc20d884f699734eaa1d50c35522f7b, type: 3}
+  - {fileID: 21300000, guid: 7096afc856ef5164faa3fbcc17468d1f, type: 3}
+  - {fileID: 21300000, guid: 281d1eb92caf25b4aacd341f2eff1c67, type: 3}
+  - {fileID: 21300000, guid: 08fa5eac06fb9cb4d833e076cd7df8cd, type: 3}
+  - {fileID: 21300000, guid: 904aa8bc8e8f8fb4e808acfb006bd354, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - "1\u5B9A\u4E49"
+  - "5\u5E38\u89C1\u5185\u819C\u606F\u8089\u5F62\u6001"
+  - "8\u7981\u5FCC\u75C7"
+  - "2\u9002\u5E94\u75C7"
+  - "4\u5185\u819C\u7684\u5F62\u6001"
+  - "10\u672F\u540E\u5904\u7406"
+  - "6\u8BCA\u65AD"
+  - "9\u5E38\u89C1\u5E76\u53D1\u75C7"
+  - 1
+  - 2
+  - "3\u5F62\u6001"
+  m_Tag: UIGroup
+  m_IsVariant: 0
+  m_IsPlaceholder: 0
